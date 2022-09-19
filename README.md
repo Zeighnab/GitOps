@@ -1,1 +1,1 @@
-GitOps
+Learning GitOps
