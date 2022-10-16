@@ -1,0 +1,5 @@
+This is a sample file.
+Created this file on my remote repo.
+Will use git pull to sync this file with my local repo.
+
+Wish me luck!
